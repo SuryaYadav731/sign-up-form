@@ -1,0 +1,170 @@
+ *{ 
+    margin: 0;
+    padding: 0;
+}
+/* body{
+    background-color: black;
+}
+
+.form{
+    border: 1px solid black;
+    height: 140px;
+    width: 250px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.name{
+    display: flex;
+}
+#first{
+    border: 1px dotted black;
+    height: 30px;
+    width: 110px;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+
+#last{
+    border: 1px dotted black;
+    height: 30px;
+    width: 110px;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    
+    
+}
+.email{
+    border: 1px dotted black;
+    height: 30px;
+    width: 228px;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+button{
+    background-color: rgb(71, 134, 227);
+    color: white;
+    border: 1px dotted black;
+    height: 33px;
+    width: 228px;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+} */
+.than{
+    border: 1px solid black;
+    background-color: white;
+    height: 120px;
+    width: 220px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+body{
+    background-color: black;
+}
+
+.name{
+    display: flex;
+  
+    
+}
+.first{
+    height: 30px;
+    width: 90px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border: 1px dotted;
+    border-radius: 4px;
+    text-align: center;
+}
+.last{
+    height: 30px;
+    width: 90px;
+    margin-top: 10px;
+    margin-left: 4px;
+    border: 1px dotted;
+    border-radius: 4px;
+    text-align: center;
+
+}
+
+.submit{
+    margin-left: 15px;
+    height: 35px;
+    width: 190px;
+    margin-top: 5px;
+    border-radius: 6px;
+    background-color: rgba(29, 134, 239, 0.863);
+    color: white;
+    border: 1px solid black;
+}
+.them{
+    height:28px;
+    margin-top: 5px;
+    border: 1px dotted black;
+    border-radius: 4px;
+    margin-left: 15px;
+    width: 187px;
+    
+}
+
+.uber{
+    background-color: white;
+    border: 1px solid black;
+    height: 180px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.location{
+    margin-top: 25px;
+    margin-left: 10px;
+    
+}
+.pickup{
+    height: 30px;
+    width: 230px;
+    background-color: rgba(239, 234, 234, 0.993);
+    border: 0.1px;
+}
+.destination{
+    height: 30px;
+    width: 230px;
+    background-color: rgba(239, 234, 234, 0.993);
+    border: 0.1px;
+    margin-top: 5px;
+}
+.request{
+    background-color: black;
+    color: white;
+    margin-top: 25px;
+    margin-left: 10px;
+    height: 30px;
+    width: 100px;
+    font-weight: 100;
+    font-size: smaller;
+}
+.later{
+    background-color: rgb(235, 227, 227);
+    height: 30px;
+    border: 0.1px;
+    width: 120px;
+}
+h2{
+    margin-left: 10px;
+   
+}
+h1{
+    color: white;
+}
